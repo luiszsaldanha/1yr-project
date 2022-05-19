@@ -107,6 +107,20 @@ section.midia{
     width: 90vw;   
 }
 
+#midia5{
+    background-image: url(midia/midia5.jpeg);
+    background-position: right center;
+    background-size: cover;
+}
+
+#midia6{
+    background-image: url(midia/midia6.jpeg);
+    background-position: right center;
+    background-size: cover;
+}
+
+
+
 a{
     color: white;
     text-decoration: none;
