@@ -119,6 +119,26 @@ section.midia{
     background-size: cover;
 }
 
+#midia7{
+    background-image: url(midia/midia7.jpeg);
+    background-position: right center;
+    background-size: cover;
+}
+
+#midia8{
+    width: 90vw;   
+}
+
+#midia9{
+    background-image: url(midia/midia9.jpeg);
+    background-position: right center;
+    background-size: cover;
+}
+
+#midia10{
+    width: 90vw;   
+}
+
 
 
 a{
