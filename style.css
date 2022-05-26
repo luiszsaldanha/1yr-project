@@ -33,6 +33,7 @@ header > h1{
 }
 header > h2{
     padding-bottom: 50px;
+    font-size: 2vh;
 }
 
 section {
@@ -46,6 +47,7 @@ section {
 
 section > p {
     padding-bottom: 2em;
+    
 
 }
 
@@ -71,12 +73,12 @@ section.midia{
 }
 
 .video{
-    background-color: rgb(255, 253, 253);
+    background-color: rgb(34, 4, 4);
     color: white;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.137);
     background-attachment: fixed;
     text-align: center;
-    padding-top: 15px;
+    padding-top: 20px;
     padding-left: 0px;
     padding-bottom: 20px;
 }
@@ -89,6 +91,7 @@ section.midia{
     display: inline-block;
     background-color: rgba(0, 0, 0, 0.349);
     text-shadow: 1px 1px black;
+    text-align: justify;
 
 }
 
