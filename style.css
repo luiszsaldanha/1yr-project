@@ -70,12 +70,12 @@ section.midia{
 }
 
 .video{
-    background-color: rgb(34, 4, 4);
+    background-color: #855ea3;
     color: white;
-    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.137);
+    box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.582);
     background-attachment: fixed;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 30px;
     padding-left: 0px;
     padding-bottom: 20px;
 }
